@@ -9,6 +9,7 @@ Astrid was a popular cross-platform productivity service that was [acquired](htt
 
 Please visit [tasks.org](https://tasks.org) for end user documentation and support
 
+
 ---
 
 [![Donate with Bitcoin](https://img.shields.io/badge/bitcoin-donate-yellow.svg?logo=bitcoin)](https://tasks.org/docs/donate)
